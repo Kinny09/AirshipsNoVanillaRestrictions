@@ -1,0 +1,20 @@
+[
+  {
+    "name": "BOMBARD",
+    "patch": true,
+    "frontOnly": false,
+    "topOnlyList": []
+  },
+  {
+    "name": "BOMBARD_ROUND",
+    "patch": true,
+    "frontOnly": false,
+    "topOnlyList": []
+  },
+  {
+    "name": "BOMBARD_WDECK",
+    "patch": true,
+    "frontOnly": false,
+    "topOnlyList": []
+  }
+]

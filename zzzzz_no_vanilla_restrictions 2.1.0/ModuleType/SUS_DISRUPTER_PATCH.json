@@ -1,0 +1,15 @@
+[
+  {
+    "name": "SUSPENDIUM_DISRUPTOR",
+    "patch": true,
+    "frontOnly": false,
+    "topOnly": false
+  },
+  {
+    "name": "SMALL_SUSPENDIUM_DISRUPTOR",
+    "patch": true,
+    "frontOnly": false,
+    "bottomOnlyList": [],
+    "topOnlyList": []
+  }
+]

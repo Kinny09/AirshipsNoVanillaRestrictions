@@ -1,0 +1,620 @@
+[
+  {
+    "name": "ABSTRACT_FIGUREHEAD",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "ACID_SPITTER",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "AERIAL_CHARGES",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "AERIAL_TORPEDO",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "AERIAL_TORPEDO_EXTERNAL",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "FLIPPED_AERIAL_TORPEDO_EXTERNAL",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "FLIPPED_AERIAL_TORPEDO_EXTERNAL_TOP",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "AERIAL_TORPEDO_EXTERNAL_TOP",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "BALLISTA",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "BIG_TRACKS",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "BIPLANE_HANGAR",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "BIPLANE_HOOK",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "BOMB_BAY",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "BOTTOM_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "COMMAND_CENTRE",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "COW_CATCHER_RAM",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "DOWN_COW_CATCHER_RAM",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "CROWS_NEST",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "CULTIST_PINNACLE",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "CULTIST_PINNACLE_NEW",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "DECK_GUN",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "DORSAL_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "DRAGON_FIGUREHEAD",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "DROPPY_ROCK",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "EAGLE_FIGUREHEAD",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "FLAK_CANNON",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "FLAMETHROWER",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "FLIGHT_CENTRE",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "FRONT_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "REAR_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "DOMED_FRONT_TURRET",
+    "patch": true,
+    "topOnly": false
+  },
+  {
+    "name": "DOMED_REAR_TURRET",
+    "patch": true,
+    "topOnly": false
+  },
+  {
+    "name": "BOXY_FRONT_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "BOXY_REAR_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "GATLING_GUN",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "GIANT_FLAMETHROWER",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "GRAND_RAM",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "GRAPESHOT_CANNON",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "GRAPESHOT_CANNON_WDECK",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "CANNON",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "CANNON_WDECK",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "HV_CANNON",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "GRENADES",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "GUIDED_MISSILE",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "HARPOON_GUN",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "IMP_CANNON",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "KRAKEN_FIGUREHEAD",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "LARGE_LEGS",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "LARGE_PROPELLER",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "LION_FIGUREHEAD",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "MASSIVE_ROCKETS",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "MASSIVE_ROCKETS_EXTERNAL",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "MED_LEGS",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "MUSKET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "OBSERVATION_DOME",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "PROPELLER",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "PROPELLER_POD",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "RAM",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "RIFLE",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "ROCKETS",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "ROCKETS_EXTERNAL",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "SAWBLADE",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "SCEPTRE_FIGUREHEAD",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "SMALL_LEGS",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "SMALL_PROPELLER",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "SMALL_TRACKS",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "SPIDER_LEGS",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "SPIKE_RAM",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "SUSPENDIUM_CANNON",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "SUSPENDIUM_RAY",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "SUSPENDIUM_RAY_ANGLED",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "TELESCOPE",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "TORPEDO_BOMBER_HANGAR",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "TRIPLANE_HANGAR",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "BOMBER_HANGAR",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "VENTRAL_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "VERTICAL_SAIL",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  },
+  {
+    "name": "MECHANICAL_TENTACLE",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+  }
+]

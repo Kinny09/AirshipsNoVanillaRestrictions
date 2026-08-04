@@ -1,0 +1,20 @@
+[
+  {
+    "name": "HV_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false,
+    "frontOnlyList": []
+  },
+  {
+    "name": "FLIPPED_HV_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false
+
+  }
+]

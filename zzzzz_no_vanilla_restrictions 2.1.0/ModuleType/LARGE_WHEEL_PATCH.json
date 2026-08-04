@@ -1,0 +1,12 @@
+[
+  {
+    "name": "LARGE_WHEEL",
+    "patch": true,
+    "bottomOnly": false
+  },
+  {
+    "name": "LARGE_STEEL_WHEEL",
+    "patch": true,
+    "bottomOnly": false
+  }
+]

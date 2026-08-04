@@ -1,0 +1,12 @@
+[
+  {
+    "name": "WHEEL",
+    "patch": true,
+    "bottomOnly": false
+  },
+  {
+    "name": "STEEL_WHEEL",
+    "patch": true,
+    "bottomOnly": false
+  }
+]

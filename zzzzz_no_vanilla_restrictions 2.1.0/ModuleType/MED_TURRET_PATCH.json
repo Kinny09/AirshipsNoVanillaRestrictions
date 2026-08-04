@@ -1,0 +1,56 @@
+[
+  {
+    "name": "FRONT_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false,
+    "frontOnlyList": []
+  },
+  {
+    "name": "DOMED_FRONT_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false,
+    "frontOnlyList": []
+  },
+  {
+    "name": "BOXY_FRONT_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false,
+    "frontOnlyList": []
+  },
+  {
+    "name": "BOTTOM_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false,
+    "frontOnlyList": []
+  },
+  {
+    "name": "DOMED_BOTTOM_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false,
+    "frontOnlyList": []
+  },
+  {
+    "name": "BOXY_BOTTOM_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false,
+    "frontOnlyList": []
+  }
+]

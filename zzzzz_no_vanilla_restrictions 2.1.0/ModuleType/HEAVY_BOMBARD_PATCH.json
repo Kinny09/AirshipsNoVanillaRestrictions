@@ -1,0 +1,12 @@
+[
+  {
+    "name": "HV_TUSHKA",
+    "patch": true,
+    "frontOnly": false
+  },
+  {
+    "name": "HV_TUSHKA_WD",
+    "patch": true,
+    "frontOnly": false
+  }
+]

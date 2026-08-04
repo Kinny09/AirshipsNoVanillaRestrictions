@@ -1,0 +1,12 @@
+[
+  {
+    "name": "WURMS",
+    "patch": true,
+    "bottomOnly": false
+  },
+  {
+    "name": "WURMS_STEEL",
+    "patch": true,
+    "bottomOnly": false
+  }
+]

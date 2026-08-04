@@ -1,0 +1,22 @@
+[
+  {
+    "name": "DORSAL_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false,
+    "frontOnlyList": [],
+    "backOnlyList":  []
+  },
+  {
+    "name": "VENTRAL_TURRET",
+    "patch": true,
+    "frontOnly": false,
+    "backOnly": false,
+    "topOnly": false,
+    "bottomOnly": false,
+    "frontOnlyList": [],
+    "backOnlyList": []
+  }
+]
