@@ -1,0 +1,9 @@
+{
+	"id": "no_vanilla_restrictions",
+	"name": {
+		"en": "No Vanilla Restrictions"
+	},
+	"description": {
+		"en": "Removes the building restrictions on vanilla modules\n\nUnlike the original no restrictions mod made by Zark, I will (try) to keep this mod as up to date as possible with the stable build of the game.\n\nIf anyone finds any modules that still have their restrictions or any other bugs, just DM me over discord or tell me in the comments below.\n\n--Known problems--\nWhen Yellows Dependencies is turned on, the landship propulsion and a great deal of other modules keep their restrictions. If you wish to use said mod along side this one, subscribe to this addon: https://steamcommunity.com/sharedfiles/filedetails/?id=2355845161\n\nVer:2.1.1\n\n--Changelog for 2.1.1--\n- Removed the restrictions on the Walled Gatling"
+	}
+}

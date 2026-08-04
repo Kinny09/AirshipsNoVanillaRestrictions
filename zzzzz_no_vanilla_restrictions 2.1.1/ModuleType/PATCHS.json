@@ -266,14 +266,6 @@
     "bottomOnly": false
   },
   {
-    "name": "GATLING_GUN",
-    "patch": true,
-    "frontOnly": false,
-    "backOnly": false,
-    "topOnly": false,
-    "bottomOnly": false
-  },
-  {
     "name": "GIANT_FLAMETHROWER",
     "patch": true,
     "frontOnly": false,
